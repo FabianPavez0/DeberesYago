@@ -1,6 +1,7 @@
 ## Fabian Pavez Mariangel
 
 ![foto trabajo](https://cdn.openart.ai/stable_diffusion/2c302c0a1def5a7b1d41a04ffac3351ad825a0bb_2000x2000.webp)
+
 __**Género:**__ **Masculino** __**Fecha de nacimiento:**__ **11/05/2005**
 __**Nacionalidad:**__ **Española**
 __**Domicilio:**__ **C/Taronger, Num 23 Bajos B, 07008, Palma, España**
