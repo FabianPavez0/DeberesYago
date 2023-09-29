@@ -26,6 +26,7 @@ el trabajo bien, soy una persona que colabora y también soy una persona
 responsable.</span>
 
 **EDUCACIÓN Y FORMACIÓN**
+
 **[13/09/2008 – 21/06/2022] ESO**
 
 __Sant Pere www.colegisantpere.com__
