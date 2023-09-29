@@ -1,0 +1,6 @@
+1- el primer url es relativo porque combina una pagina para llevarte a un apartado especifico
+2- el segundo url tambien es relativo porque usa el github para llevarte a una parte especifica de la pagina de github
+3- el tercer url es absoluto (aunque no funcione) porque te lleva a una sola pagina pero a la parte de los comentarios
+4- el cuarto url es absoluto porque solamente te lleva a una pagina con solo una imagen
+5- el quinto es absoluto (aunque tampoco funcione) porque te lleva directamente a la pagina sin ningun lugar especifico
+6- el ultimo url es relativo porque te lleva a una zona especifica de la pagina
