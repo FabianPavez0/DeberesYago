@@ -25,7 +25,7 @@ lo busco por diferentes lugares para tener los conocimientos básicos para hacer
 el trabajo bien, soy una persona que colabora y también soy una persona
 responsable.</span>
 
-**EDUCACIÓN Y FORMACIÓN**
+# EDUCACIÓN Y FORMACIÓN
 
 **[13/09/2008 – 21/06/2022] ESO**
 
@@ -42,11 +42,11 @@ __Dirección: C. Can Valero, 19, 07011, Palma, España__
 __Aulabalear www.aulabalear.org__
 __Dirección: C. Can Valero, 19, 07011, Palma, España__
 
-**COMPETENCIAS DE IDIOMAS**
+# COMPETENCIAS DE IDIOMAS
 
 **Lengua(s) materna(s):** __Español__
 
-**AFICIONES E INTERESES**
+# AFICIONES E INTERESES
 __Animación__
 __Tengo los conocimientos básicos sobre la animación.__
 **Enlace:** https://youtu.be/mA5-Ug6rv14
