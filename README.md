@@ -1,7 +1,6 @@
 ## Fabian Pavez Mariangel
 
-![foto
-trabajo](https://cdn.openart.ai/stable_diffusion/2c302c0a1def5a7b1d41a04ffac3351
+![foto trabajo](https://cdn.openart.ai/stable_diffusion/2c302c0a1def5a7b1d41a04ffac3351
 ad825a0bb_2000x2000.webp)
 
 __**Género:**__ **Masculino** __**Fecha de nacimiento:**__ **11/05/2005**
