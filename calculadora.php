@@ -1,27 +1,29 @@
 <?php
 $op1 = $_GET['op1'];
 $op2 = $_GET['op2'];
+$operacion = $_GET['operacion'];
 
-/* $suma = $op1 + $op2; */
-/* $resta = $op1 - $op2; */
-/* $multiplicar = $op1 * $op2; */
-/* $dividir = $op1 % $op2; */
+$resultado = null;
 
-$resultado = $_GET['resultado'];
-
-switch ($op) {
-	case suma;
-		echo "$resultado";
-		break;
-	case resta;
-		echo "$resultado";
-		break;
-	case multiplicar;
-		echo "$resultado";
-		break;
-	case dividir;
-		echo "$resultado";
-		break;
+if (isset($op1) && isset($op2) && isset($operacion)) {
+    switch ($operacion) {
+        case 'sumar':
+            $resultado = $op1 + $op2;
+            break;
+        case 'restar':
+            $resultado = $op1 - $op2;
+            break;
+        case 'multiplicar':
+            $resultado = $op1 * $op2;
+            break;
+        case 'dividir':
+            $resultado = $op1 / $op2;
+            break;
+    }
 }
-/* NO funciona */
+
+if ($resultado !== null) {
+        echo "El resultado es: $resultado";
+    }
 ?>
+
