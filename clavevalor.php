@@ -1069,6 +1069,16 @@ $aerolineas = array(
 "ZZ"=>"Airline Service",
 )
 
+if (isset($_GET['aircode'])) {
+    $aircode = $_GET['aircode'];
 
-
+    if (array_key_exists($aircode, $aerolineas)) {
+        $nombreAerolinea = $aerolineas[$aircode];
+        echo $nombreAerolinea;
+    } else {
+        echo "Aerolínea no encontrada";
+    }
+} else {
+    echo "No se proporcionó un código de aerolínea";
+}
 ?>
