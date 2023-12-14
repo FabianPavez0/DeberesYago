@@ -18,7 +18,7 @@
 
 // cargamos el contenido del archivo
 
-$arxiu = "data/vacacional.xml";
+$arxiu = "data/CP.xml";
 $pobles = array();
 
 
